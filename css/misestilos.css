@@ -1,0 +1,16 @@
+.video-responsive{
+    max-width: -webkit-fill-available;
+}
+
+.icono-anuncio{
+    font-size: 65px;
+    color: #39aef3;
+}
+
+.mg-rop-20{
+    margin-top: 20px;
+}
+
+.texto-blanco{
+    color: #FFFFFF!important;
+}
